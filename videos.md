@@ -5,6 +5,9 @@ description: In this page you can find the link to assignment 2 and the video re
 background: '/img/videos.jpg'
 ---
 
+## Notebook
+[Notebook](https://github.com/oida-dtu/SocialDataFinalProject/blob/main/Workbook_NEW.ipynb)
+
 ## Link to Assignment 2 
 [San Francisco Daily Analyst](https://dariofornaro.github.io/group34.github.io/)
 
