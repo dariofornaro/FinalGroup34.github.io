@@ -5,12 +5,12 @@ description: In this page you can find the link to assignment 2 and the video re
 background: '/img/videos.jpg'
 ---
 
-## Link to assignment 2 
+## Link to Assignment 2 
 [San Francisco Daily Analyst](https://dariofornaro.github.io/group34.github.io/)
 
 
 
-## Video Final Assignment part A 
+## Video Final Assignment Part A 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
