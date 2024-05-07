@@ -3,6 +3,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.3"
 
 ruby '3.2.3'
+gem "jekyll-theme-clean-blog"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"

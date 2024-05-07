@@ -39,6 +39,8 @@ GEM
       sass-embedded (~> 1.54)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-theme-clean-blog (4.0.12)
+      jekyll (>= 3.8.5)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -76,12 +78,16 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  jekyll (>= 3.8.5)
+  jekyll (~> 4.3.3)
   jekyll-feed (~> 0.6)
   jekyll-paginate (~> 1.1.0)
   jekyll-sitemap
+  jekyll-theme-clean-blog
   tzinfo-data
   wdm (~> 0.1.0)
+
+RUBY VERSION
+   ruby 3.2.3p157
 
 BUNDLED WITH
    2.5.6
